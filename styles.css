@@ -45,8 +45,12 @@
 html{
     background-color: rgba(0, 106, 255, 0.44);
 }
-img{
+#sourcecode{
     border-radius: 25px;
     width: 350px;
     height: auto;
+}
+#picture{
+    border-radius: 25px;
+    width: 250px;
 }
