@@ -37,6 +37,14 @@
         margin: 0%;
     }
 }
+
+    .operation{
+        text-align: center;
+        
+    }
 html{
-    background-color: rgb(69, 107, 244);
+    background-color: rgba(0, 106, 255, 0.44);
+}
+img{
+    border-radius: 25px;
 }
